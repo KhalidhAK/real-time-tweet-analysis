@@ -2,4 +2,3 @@ tweepy
 numpy
 pandas
 textblob
-sys
