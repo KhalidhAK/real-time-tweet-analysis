@@ -3,9 +3,6 @@ import numpy as np
 import pandas as pd
 from textblob import TextBlob
 import re
-import chart_studio.plotly as py
-import plotly.graph_objs as go
-from plotly.offline import iplot
 import sys
 
 # consumer key & secret

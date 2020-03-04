@@ -1,0 +1,6 @@
+tweepy
+numpy
+pandas
+textblob
+re
+sys
